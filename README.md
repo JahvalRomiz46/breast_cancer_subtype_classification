@@ -72,7 +72,7 @@ Langkah-langkah utama proyek machine learning ini meliputi:
 
 ---
 
-## 🧠 Key Findings
+## Key Findings
 | Model | Accuracy | Precision | Recall | F1-Score | ROC AUC |
 |:---------------------------------------------|:---------:|:-----------:|:--------:|:----------:|:---------:|
 | **Random Forest (Tanpa Seleksi Fitur)** | 89.34% | 91.68% | 76.81% | 80.04% | 98.44% |
@@ -89,7 +89,7 @@ Langkah-langkah utama proyek machine learning ini meliputi:
 - Kombinasi **RFE-LASSO + Random Forest** memberikan hasil paling seimbang antara performa dan efisiensi komputasi.  
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 | Tool / Library | Kegunaan |
 |-----------------|-----------|
 | **Python** | Bahasa pemrograman utama |
