@@ -76,7 +76,7 @@ Langkah-langkah utama proyek machine learning ini meliputi:
 | Model | Accuracy | Precision | Recall | F1-Score | ROC AUC |
 |:---------------------------------------------|:---------:|:-----------:|:--------:|:----------:|:---------:|
 | **Random Forest (Tanpa Seleksi Fitur)** | 89.34% | 91.68% | 76.81% | 80.04% | 98.44% |
-| **Random Forest + RFE-LASSO** | 🟢= **91.37%** | 🟢 **94.17%** | 🟢 **85.59%** | 🟢 **88.99%** | 🟢 **98.45%** |
+| **Random Forest + RFE-LASSO** | 🟢 **91.37%** | 🟢 **94.17%** | 🟢 **85.59%** | 🟢 **88.99%** | 🟢 **98.45%** |
 | **SVM (Tanpa Seleksi Fitur)** | 87.82% | 87.05% | 80.48% | 83.23% | 97.30% |
 | **SVM + RFE-LASSO** | 🔻 **84.26%** | 🔻 **82.46%** | 🔻 **73.27%** | 🔻 **76.67%** | 🔻 **93.81%** |
 
